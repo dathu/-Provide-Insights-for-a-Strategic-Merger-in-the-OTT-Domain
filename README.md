@@ -1,4 +1,4 @@
-# -Provide-Insights-for-a-Strategic-Merger-in-the-OTT-Domain
+# Provide-Insights-for-a-Strategic-Merger-in-the-OTT-Domain
 Developed an interactive Power BI dashboard analyzing the merger of OTT platforms Jotstar and Liocinema
 for Codebasics Resume Project Challenge 14. Performed data transformation using Power Query to clean,
 merge, and standardize datasets from both platforms. Built a robust data model with relationships across user,
